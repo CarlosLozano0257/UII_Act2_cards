@@ -10,5 +10,6 @@ El diseño debe incluir un cálculo dinámico del Subtotal en color azul que se 
 
 # mi diseño
 <img width="661" height="1000" alt="image" src="https://github.com/user-attachments/assets/7b3ac1c7-e99b-4715-b658-7faf52d8b7af" />
-![alt text](image-5.png)
+<img width="419" height="670" alt="image" src="https://github.com/user-attachments/assets/380e69d3-1d75-406a-b4ee-f18f2c17ec85" />
+
 <img width="1346" height="708" alt="image" src="https://github.com/user-attachments/assets/04932ac8-ad76-47c2-ad14-15c89cd28f97" />
