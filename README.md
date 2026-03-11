@@ -9,5 +9,6 @@ Cada tarjeta debe incluir: a la izquierda, una imagen de red con bordes curvos; 
 El diseño debe incluir un cálculo dinámico del Subtotal en color azul que se actualice al modificar las cantidades. Al final, agregar un botón de 'Método de Pago' con borde azul grueso y una barra de navegación con 4 iconos. Usar una clase Producto y un StatefulWidget para manejar el estado de la aplicación.
 
 # mi diseño
-
+<img width="661" height="1000" alt="image" src="https://github.com/user-attachments/assets/7b3ac1c7-e99b-4715-b658-7faf52d8b7af" />
 ![alt text](image-5.png)
+<img width="1346" height="708" alt="image" src="https://github.com/user-attachments/assets/04932ac8-ad76-47c2-ad14-15c89cd28f97" />
